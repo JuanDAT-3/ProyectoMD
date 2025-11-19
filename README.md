@@ -17,8 +17,9 @@ ProyectoMD
 - Ejercicio1.py
 - Ejercicio2.py
 - Ejercicio3.py
-- Ejercicio4.py
+- Ejercicio 4.1 y 4.2.py
 - Ejercicio5.py
+- BiblioE5.py
 - README.md
 
 Descripción de los ejercicios
